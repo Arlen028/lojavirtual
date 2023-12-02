@@ -15,6 +15,11 @@ const router = createRouter({
       name: "carrinho",
       component: CarrinhoView,
     },
+    // {
+    //   path: "/categoria",
+    //   name: "",
+    //   component: ,
+    // },
   ],
 });
 
